@@ -10,4 +10,3 @@ console.log("Soma: " + somar(8,2))
 const subtrair = require("./subtrair")
 console.log("Subtração : " + subtrair(8,2))
 
-console.log("Bruce lindo")
